@@ -1,5 +1,4 @@
 subscription-id = "3ceca0c5-c2dd-4175-aa75-80d12e1b88cb"
-key             = "prod"
 resource_group_name = "prod-rg"
 location    = "West Europe"
 aks_name    = "Akscluster-prod-pragya"
